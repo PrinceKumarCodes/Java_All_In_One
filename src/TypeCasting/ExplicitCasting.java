@@ -1,4 +1,4 @@
-//--------------------Explicit TypeCasting------------------
+package TypeCasting;//--------------------Explicit TypeCasting.ImplicitCasting------------------
 // By default the compiler, doesn't  allow  the explicit typecasting
 
 public class ExplicitCasting {

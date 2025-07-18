@@ -1,4 +1,4 @@
- //-----------------Relational Operator Examples--------------
+package Operators; //-----------------Relational Operator Examples--------------
  import java.util.*;
 public class RelationalOperator {
     public static void main(String[] args) {

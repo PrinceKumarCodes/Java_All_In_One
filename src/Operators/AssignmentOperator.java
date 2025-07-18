@@ -1,4 +1,4 @@
-//----------------Assignment Operators Example--------------------
+package Operators;//----------------Assignment Operators Example--------------------
 // Assignment operator is a part of unary operator(only =)
 //There are two types of assignment operator
 // 1) Simple assignment operator(=)

@@ -1,4 +1,4 @@
-//---------------------Switch statement----------
+package DecisionMakingStatements;//---------------------Switch statement----------
 import java.util.*;
 public class SwitchStatement {
     public static void main(String []args){

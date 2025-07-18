@@ -1,3 +1,5 @@
+package InputOutputs;
+
 import java.util.Scanner;
 public class PrintName {
     public static void main(String [] args){

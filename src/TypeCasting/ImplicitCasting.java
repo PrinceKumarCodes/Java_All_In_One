@@ -1,7 +1,7 @@
-//------------Implicit Typecasting-----------------
+package TypeCasting;//------------Implicit Typecasting-----------------
 //Implicit Typecasting is automatically performed by the compiler
 
-public class TypeCasting {
+public class ImplicitCasting {
 
     public static void main(String[] args) {
         int a = 10;  //4 bytes

@@ -1,3 +1,5 @@
+package DecisionMakingStatements;
+
 import java.util.Scanner;
 
 //-----------Else if ladder statement-------------

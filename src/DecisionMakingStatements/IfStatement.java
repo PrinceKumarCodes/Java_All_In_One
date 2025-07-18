@@ -1,4 +1,4 @@
-// -------------Simple If statement------------
+package DecisionMakingStatements;// -------------Simple If statement------------
 import  java.util.*;
 public class IfStatement {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-//-----------------Logical Operator Example--------------
-
-import java.util.*;
+package Operators;//-----------------Logical Operator Example--------------
 
 public class LogicalOperator {
     public static void main(String[] args) {

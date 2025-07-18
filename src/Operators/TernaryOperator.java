@@ -1,3 +1,5 @@
+package Operators;
+
 //--------------Ternary Operator Example(it's called conditional operator)-----------
 public class TernaryOperator {
     public static void main(String[] args) {
